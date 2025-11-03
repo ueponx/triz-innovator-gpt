@@ -1,0 +1,23 @@
+{
+  "name": "TRIZ イノベーター",
+  "description": "TRIZを使ってアイデアを改良する親しみやすいアシスタント",
+  "instructions_file": "instructions.md",
+  "knowledge_files": [
+    "knowledge/TRIZ_40_Principles_Knowledge_Base.md",
+    "knowledge/TRIZ_Case_Studies.md"
+  ],
+  "capabilities": {
+    "web_browsing": true,
+    "code_interpreter": false,
+    "dalle_image_generation": false
+  },
+  "conversation_starters": [
+    "製品アイデアを改良したい",
+    "サービスの課題を解決したい",
+    "矛盾する要求をどう解決すればいい？",
+    "TRIZって何ですか？"
+  ],
+  "profile_picture": "images/icon.png",
+  "created_date": "2025-11-03",
+  "version": "1.0.0"
+}
